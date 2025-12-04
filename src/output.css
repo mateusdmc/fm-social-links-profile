@@ -170,6 +170,12 @@
   }
 }
 @layer utilities {
+  .static {
+    position: static;
+  }
+  .contents {
+    display: contents;
+  }
   .flex {
     display: flex;
   }
